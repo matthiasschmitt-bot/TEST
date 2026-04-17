@@ -1,3 +1,1 @@
-# TEST
-ich schau mal ob es funktioniert
-00000
+„Übungsprojekt für Git, GitHub und erste Schritte in der Datenanalyse.“
